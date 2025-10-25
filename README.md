@@ -42,9 +42,9 @@ Inicia los servicios definidos en el archivo docker-compose.yml:
 docker compose up -d
    ```
 Este comando crea y ejecuta los contenedores:
-**web1**: primer servidor web
-**web2**: segundo servidor web
-**haproxy**: balanceador de carga
+- **web1**: primer servidor web
+- **web2**: segundo servidor web
+- **haproxy**: balanceador de carga
 
 ### 3️⃣ Verificar el estado de los contenedores
 Comprueba que todos estén en ejecución:
@@ -99,4 +99,4 @@ docker logs web2
 docker stats
    ```
 
-También puedes usar el plugin Docker de VS Code, para monitorear los contenedores.
+También puedes usar el plugin **Docker** para VS Code, con el fin de monitorear los Contenedores Docker.
