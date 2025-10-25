@@ -76,6 +76,7 @@ Detén el contenedor web1:
 docker compose stop web1
    ```
 Actualiza la página del puerto 8080 varias veces.
+
 👉 Notarás que ahora solo responde el servidor web2
 
 ### 6️⃣ Simular caída de web2
@@ -85,6 +86,7 @@ Detén ahora web2:
 docker compose stop web2
    ```
 Actualiza la página del puerto 8080:
+
 👉 Verás que HAProxy no puede dirigir las solicitudes, ya que ambos servidores web están fuera de servicio.
 
 ### 7️⃣ Restaurar los servicios web
@@ -93,6 +95,7 @@ Vuelve a iniciar ambos servidores:
 docker compose start web1 web2
    ```
 Actualiza nuevamente el navegador:
+
 ✅ El balanceador vuelve a distribuir el tráfico entre web1 y web2.
 
 ### 8️⃣ Monitorear y auditar la infraestructura
