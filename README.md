@@ -25,7 +25,7 @@ Todo se desarrollará directamente en la nube usando **GitHub Codespaces**.
 
 🔹 Pasos iniciales:
 
-1. Ingresa a 👉 https://github.com/codespaces
+1. Ingresa a 👉 [GitHub Codespaces](https://github.com/codespaces)
 2. Selecciona la plantilla Blank (entorno vacío).
 3. Espera a que se abra el entorno de desarrollo basado en VS Code Web.
 4. Una vez cargado, podrás ejecutar todos los comandos desde la **terminal** integrada.
