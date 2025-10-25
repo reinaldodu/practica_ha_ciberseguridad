@@ -63,6 +63,7 @@ docker compose ps
 ### 4️⃣ Acceder al balanceador de carga
 Abre el puerto 8080 en Codespaces y accede al sitio web.
 Haz clic en la pestaña puertos (en la barra inferior) y luego en el icono de navegación.
+
 ![Puertos](https://i.postimg.cc/GpRjJPSV/puertos.png)
 
 Verás una página similar a esta:
