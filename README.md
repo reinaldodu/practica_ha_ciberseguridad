@@ -20,7 +20,15 @@ Al finalizar esta práctica, el estudiante será capaz de:
 
 ## ☁️ Entorno de trabajo
 
-Toda la práctica se realiza en la **nube** usando **GitHub Codespaces**, que permite ejecutar contenedores Docker sin necesidad de instalar herramientas adicionales en el equipo local.
+Para realizar esta práctica no necesitas instalar nada en tu computador.
+Todo se desarrollará directamente en la nube usando **GitHub Codespaces**.
+
+🔹 Pasos iniciales:
+
+1. Ingresa a 👉 https://github.com/codespaces
+2. Selecciona la plantilla Blank (entorno vacío).
+3. Espera a que se abra el entorno de desarrollo basado en VS Code Web.
+4. Una vez cargado, podrás ejecutar todos los comandos desde la **terminal** integrada.
 
 ---
 
